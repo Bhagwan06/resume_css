@@ -1,0 +1,65 @@
+.container {
+    border: 1px solid black;
+    border-radius: 4px;
+    font-style: italic;
+
+}
+
+.title {
+    justify-content: center;
+    box-shadow: 2px salmon;
+    align-items: center;
+    background-color: aquamarine;
+    border-radius: 4px;
+    padding: 12px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.span {
+    background-color: grey;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 8px;
+    border-radius: 4px;
+    text-decoration: underline;
+}
+
+.about {
+    background-color: gainsboro;
+    border-radius: 4px;
+    padding: 8px;
+
+
+}
+
+.skills {
+    background-color: #cd8888;
+    padding: 8px;
+    border-radius: 4px;
+
+}
+
+.education {
+    background-color: yellowgreen;
+    border-radius: 4px;
+    padding: 8px;
+
+}
+
+.experience {
+    background-color: thistle;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.img {
+    border: 1px solid black;
+    height: 150px;
+    width: 200px;
+}
+
+.img:hover {
+    cursor: pointer;
+}
